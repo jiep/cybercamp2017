@@ -43,7 +43,9 @@ Un tutorial más completo se puede ver en [https://docs.floydhub.com/examples/st
 
 ## Resultados con el estilo de La Musa, de Picasso
 
-![](./output/la_muse.jpg)
+<p align="center">
+  <img src="./output/la_muse.jpg">
+</p>
 
 ### Palacio de la Magdalena
 
