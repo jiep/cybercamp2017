@@ -9,6 +9,7 @@
 * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)
 * [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/pdf/1610.06918.pdf)
 * [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/pdf/1708.06733.pdf)
+* [Deep Learning Adversarial Examples – Clarifying Misconceptions](https://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
 
 ### Códigos
 * [Adversarial Steganography](https://github.com/dvolkhonskiy/adversarial-steganography)
