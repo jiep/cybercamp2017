@@ -41,7 +41,9 @@
 
 Un tutorial más completo se puede ver en [https://docs.floydhub.com/examples/style_transfer/](https://docs.floydhub.com/examples/style_transfer).
 
-## Resultados
+## Resultados con el estilo de La Musa, de Picasso
+
+![](./output/la_muse.jpg)
 
 ### Palacio de la Magdalena
 
