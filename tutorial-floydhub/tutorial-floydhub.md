@@ -41,6 +41,8 @@
 
 Un tutorial más completo se puede ver en [https://docs.floydhub.com/examples/style_transfer/](https://docs.floydhub.com/examples/style_transfer).
 
+Más tutoriales con Tensorflow en [https://github.com/floydhub/tensorflow-notebooks-examples](https://github.com/floydhub/tensorflow-notebooks-examples).
+
 ## Resultados con el estilo de La Musa, de Picasso
 
 <p align="center">
