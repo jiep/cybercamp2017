@@ -1,0 +1,6 @@
+nose
+pycodestyle
+scipy
+tensorflow
+matplotlib
+-e git+http://github.com/tensorflow/cleverhans.git#egg=cleverhans
