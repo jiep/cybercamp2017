@@ -188,7 +188,6 @@ def mnist_tutorial_jsma(train_start=0, train_end=60000, test_start=0,
     # Finally, block & display a grid of all the adversarial examples
     if viz_enabled:
         import matplotlib.pyplot as plt
-	plt.save("/output/figure.png")
         plt.close(figure)
         _ = grid_visual(grid_viz_data)
 
