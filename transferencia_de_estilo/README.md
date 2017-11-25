@@ -1,4 +1,4 @@
-# Tutorial FloydHub
+# Tutorial FloydHub (transferencia de estilo)
 
 1. Crear una cuenta en [FloydHub](https://floydhub.com).
 2. Instalar `floyd-cli`.
