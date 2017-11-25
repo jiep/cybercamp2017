@@ -18,9 +18,10 @@
 
 4. Ir a la carpeta `transferencia_de_estilo/codigo` o clonar el repositorio con el código.
 
-```git clone https://github.com/lengstrom/fast-style-transfer codigo
-cd fast-style-transfer
-```
+  ```
+  git clone https://github.com/lengstrom/fast-style-transfer codigo
+  cd fast-style-transfer
+  ```
 
 5. Inicializar el proyecto local con `floyd init fast-style-transfer`. Seguir las instrucciones de la terminal.
 
@@ -35,12 +36,12 @@ cd fast-style-transfer
     ```
   6.3. Repetir el punto anterior en la carpeta `estilos`.
 
-  ```
-  floyd data init estilos
-  floyd data upload
-  ```
+    ```
+    floyd data init estilos
+    floyd data upload
+    ```
 
-6. Entrenar el modelo preentrenado.
+7. Entrenar el modelo preentrenado.
 
   > ADVERTENCIA: Puede tardar mucho tiempo si no se ejecuta con GPU.
 
@@ -52,15 +53,15 @@ cd fast-style-transfer
 
   ![](./resultados/logs.png)
 
-7. Carpeta de salida del modelo. `floyd info <RUN_ID>`.
+8. Carpeta de salida del modelo. `floyd info <RUN_ID>`.
 
-8. Evaluar modelo con las imágenes del dataset `fotos`.
+9. Evaluar modelo con las imágenes del dataset `fotos`.
 
   ```
   floyd run --env tensorflow-1.3:py2 --data <ID_DATASET_ESTILOS>/:estilos --data <ID_DATASET_FOTOS>:/fotos "python evaluate.py --allow-different-dimensions --checkpoint /estilos/wave.ckpt --in-path /fotos --out-path /output --batch-size 1"
   ```
 
-9. Ver imágenes obtenidas. `floyd output <RUN_ID2>`.
+10. Ver imágenes obtenidas. `floyd output <RUN_ID2>`.
 
 Un tutorial más completo se puede ver en [https://docs.floydhub.com/examples/style_transfer/](https://docs.floydhub.com/examples/style_transfer).
 
