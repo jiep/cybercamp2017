@@ -58,7 +58,7 @@
 9. Evaluar modelo con las imágenes del dataset `fotos`.
 
   ```
-  floyd run --env tensorflow-1.3:py2 --data <ID_DATASET_ESTILOS>/:estilos --data <ID_DATASET_FOTOS>:/fotos "python evaluate.py --allow-different-dimensions --checkpoint /estilos/wave.ckpt --in-path /fotos --out-path /output --batch-size 1"
+  floyd run --env tensorflow-1.3:py2 --data <ID_DATASET_ESTILOS>:/estilos --data <ID_DATASET_FOTOS>:/fotos "python evaluate.py --allow-different-dimensions --checkpoint /estilos/wave.ckpt --in-path /fotos --out-path /output --batch-size 1"
   ```
 
 10. Ver imágenes obtenidas. `floyd output <RUN_ID2>`.
