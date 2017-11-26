@@ -106,7 +106,7 @@ Domains](https://arxiv.org/pdf/1703.07909.pdf)
 ### Servicios en la nube
 * [Inteligencia artificial en AWS. Aprendizaje automático potente para desarrolladores y científicos de datos](https://aws.amazon.com/es/amazon-ai)
 * [TensorFlow en AWS – Aprendizaje profundo en la nube](https://aws.amazon.com/es/tensorflow)
-* [Amazon Machine Learning - Predictive Analytics with AWS](Amazon Machine Learning - Predictive Analytics with AWS)
+* [Amazon Machine Learning - Predictive Analytics with AWS](https://aws.amazon.com/aml)
 * [Google Cloud Machine Learning at Scale | Google Cloud Platform](https://cloud.google.com/products/machine-learning)
 * [Cloud Machine Learning Engine - Google Cloud Platform](https://cloud.google.com/ml-engine)
 * [Machine Learning | Microsoft Azure](https://azure.microsoft.com/es-es/services/machine-learning-studio)
