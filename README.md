@@ -17,9 +17,11 @@ Deep Neural Network](https://eprint.iacr.org/2017/035.pdf)
 
 ## Seguridad ofensiva
 
-### Herramientas
+### Herramientas/Librerías
 * [Cleverhans](https://github.com/tensorflow/cleverhans)
 * [FloydHub](https://www.floydhub.com)
+* [AdversariaLib](https://pralab.diee.unica.it/en/AdversariaLib)
+* [AlfaSVMLib](http://pralab.diee.unica.it/en/ALFASVMLib)
 
 ### Adversarial Machine Learning
 * [Deep Learning Adversarial Examples – Clarifying Misconceptions](https://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
@@ -40,6 +42,7 @@ Domains](https://arxiv.org/pdf/1703.07909.pdf)
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508)
 * [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
 * [Adversarial examples in the physical world](https://arxiv.org/pdf/1607.02533.pdf)
+* [Poisoning attacks against SVMs](http://pralab.diee.unica.it/en/BattistaBiggio/Code)
 
 ## Demos
 * [A Neural Network Playground - TensorFlow](http://playground.tensorflow.org)
