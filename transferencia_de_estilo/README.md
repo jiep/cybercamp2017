@@ -67,6 +67,28 @@ Un tutorial más completo se puede ver en [https://docs.floydhub.com/examples/st
 
 Más tutoriales con Tensorflow en [https://github.com/floydhub/tensorflow-notebooks-examples](https://github.com/floydhub/tensorflow-notebooks-examples).
 
+## Fotos originales
+
+<p align="center">
+  <img src="./fotos/foto1.jpg"/>
+</p>
+
+<p align="center">
+  <img src="./fotos/foto2.jpg"/>
+</p>
+
+<p align="center">
+  <img src="./fotos/foto3.jpg"/>
+</p>
+
+<p align="center">
+  <img src="./fotos/foto4.jpg"/>
+</p>
+
+<p align="center">
+  <img src="./fotos/foto5.jpg"/>
+</p>
+
 ## Resultados
 
 ### Estilo de La gran ola de Kanagawa (wave)
