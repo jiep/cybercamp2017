@@ -1,9 +1,9 @@
 # Taller Cybercamp 2017. Seguridad ofensiva y defensiva con Machine Learning
-* Dr. Alfonso Muñoz - Head of Cybersecurity lab (@mindcrypt)
-
-* D. José Ignacio Escribano - Security & Machine Learning Researcher (joseignacio.escribano@i4s.com)
-
-* Cybersecurity Lab - Innovation 4 Security (BBVA group)
+> Dr. Alfonso Muñoz - Head of Cybersecurity lab (@mindcrypt)
+> 
+> D. José Ignacio Escribano - Security & Machine Learning Researcher (joseignacio.escribano@i4s.com)
+> 
+> Cybersecurity Lab - Innovation 4 Security (BBVA group)
 ## Seguridad defensiva
 
 ### Papers
